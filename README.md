@@ -1,6 +1,7 @@
 ## Hi there, Loan Matteus here 👋
 
 ## About me
+- 🚀 Learning and Developing Web API's based projects in Nodejs.
 - ☀️ Learning and Developing Web API's based projects in Nodejs.
 - ➿ Contributing Private Projects.
 
