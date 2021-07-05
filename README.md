@@ -29,10 +29,10 @@
 
 ## Social Hangouts 💬 -
 <a href="https://www.linkedin.com/in/loanmatteusz/">
-  <img align="left" alt="Loan's Linkdein" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
+  <img align="left" alt="Loan's Linkdein" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
 </a>
 <a href="https://github.com/loanmatteusz">
-  <img align="left" alt="Loan's Github" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />
+  <img align="left" alt="Loan's Github" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />
 </a>
 <br>
 <!--
