@@ -33,7 +33,7 @@
   <img align="left" alt="Loan's Github" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />
 </a>
 <br>
-
+<!--
 ## Main Repositories on moment -
 <a href="https://github.com/loanmatteusz/meat-api">
   <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=loanmatteusz&repo=meat-api" />
@@ -41,7 +41,7 @@
 <a href="https://github.com/loanmatteusz/nest-api">
   <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=loanmatteusz&repo=nest-api" />
 </a>
-
+-->
 <!--
 **loanmatteusz/loanmatteusz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
