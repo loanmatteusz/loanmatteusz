@@ -7,9 +7,7 @@
 ## Things that I execute in free time ⚡ -  
   - While Coding, Listening Music and developing useful code.⭐️
   - Just loved to Explore new Tech Stacks.💻
-  - Learning Physics and getting knowledge about Space, Cosmos and Astronomy is My Night Job. 🌌 ☄️ 🔭
-  - In mean time, I play games with my friends.🌱
-  - Always Willing to help (**Altruistic**). ✋ 
+  - In mean time, I play games with my friends.✋ 
 
 ## Technologies :fire:
 - Web API's with **Node.js**.
