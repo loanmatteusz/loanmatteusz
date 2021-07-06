@@ -1,8 +1,8 @@
 ## Hi there, Loan Matteus here 👋
 
 ## About me
-- 🚀 Learning and Developing Web API's based projects in Nodejs.
-- ☀️ Learning and Developing Web API's based projects in Nodejs.
+- 🚀 Learning and Developing Web API's based projects in Nodejs with Express / NestJS.
+- ☀️ Learning and Developing Web SPA based projects in React or Angular framworks.
 - ➿ Contributing Private Projects.
 
 ## Things that I execute in free time ⚡ -  
