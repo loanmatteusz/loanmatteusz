@@ -1,6 +1,6 @@
-## Hi there, Loan Matteus here 👋
+## Hi there, Loan Matteus here 👋 -
 
-## About me
+## About me -
 - 🚀 Learning and Developing Web API's based projects in Nodejs with Express / NestJS.
 - ☀️ Learning and Developing Web SPA based projects in React or Angular framworks.
 - ➿ Contributing Private Projects.
@@ -10,11 +10,11 @@
   - Just loved to Explore new Tech Stacks.💻
   - In mean time, I play games with my friends.✋ 
 
-## Technologies :fire:
+## Technologies :fire: -
 - Web API's with **Node.js**.
 - Python.
 
-**Languages and Tools:**
+**Languages and Tools:** -
 </br>
 </br>
 <code><img height="25" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code>
@@ -28,7 +28,7 @@
 <code><img height="25" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
 <code><img height="25" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/cpp/cpp.png"></code>
 
-## Main Repositories
+## Main Repositories -
 - [User Authentication](https://github.com/loanmatteusz/AuthUsuarios)
 - [Alura Quiz: Perguntas sobre Valorant](https://github.com/loanmatteusz/AluraQuiz)
 
