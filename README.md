@@ -30,7 +30,7 @@
 
 ## Main Repositories -
 - [User Authentication](https://github.com/loanmatteusz/AuthUsuarios)
-- [Alura Quiz: Perguntas sobre Valorant](https://github.com/loanmatteusz/AluraQuiz)
+- [Alura Quiz: Perguntas sobre a série Supernatural](https://github.com/loanmatteusz/AluraQuiz)
 
 ## Social Hangouts 💬 -
 <a href="https://www.linkedin.com/in/loanmatteusz/">
