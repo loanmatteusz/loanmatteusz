@@ -31,6 +31,7 @@
 ## Main Repositories -
 - [User Authentication](https://github.com/loanmatteusz/AuthUsuarios)
 - [Alura Quiz: Perguntas sobre a série Supernatural](https://github.com/loanmatteusz/AluraQuiz)
+- [Conversor de Binário pra Decimal](https://github.com/loanmatteusz/Bin2Dec)
 
 ## Social Hangouts 💬 -
 <a href="https://www.linkedin.com/in/loanmatteusz/">
