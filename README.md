@@ -29,6 +29,8 @@
 <code><img height="25" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/cpp/cpp.png"></code>
 
 ## Main Repositories -
+- [Backend E-commerce usando Nest Framework](https://github.com/matheusjustino/ecommerce-backend)
+- [Projeto do Capítulo#02 do bootcamp da Rocketseat](https://github.com/loanmatteusz/rentalx)
 - [User Authentication](https://github.com/loanmatteusz/AuthUsuarios)
 - [Alura Quiz: Perguntas sobre a série Supernatural](https://github.com/loanmatteusz/AluraQuiz)
 - [Conversor de Binário pra Decimal](https://github.com/loanmatteusz/Bin2Dec)
