@@ -29,6 +29,7 @@
 <code><img height="25" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/cpp/cpp.png"></code>
 
 ## Main Repositories -
+- [Applicativo de Menu de Pratos](https://github.com/loanmatteusz/Menu-App)
 - [Applicativo de busca de Filmes com Classificação](https://github.com/loanmatteusz/movie-app)
 - [Backend E-commerce usando Nest Framework](https://github.com/matheusjustino/ecommerce-backend)
 - [Projeto do Capítulo#02 do bootcamp da Rocketseat](https://github.com/loanmatteusz/rentalx)
