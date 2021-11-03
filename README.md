@@ -12,6 +12,7 @@
 
 ## Technologies :fire: -
 - Web API's with **Node.js**.
+- React.js
 - Python.
 
 **Languages and Tools:** -
