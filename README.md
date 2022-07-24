@@ -29,6 +29,7 @@
 <code><img height="25" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
 <code><img height="25" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/cpp/cpp.png"></code>
 
+<!--
 ## Main Repositories -
 - [Applicativo de Menu de Pratos](https://github.com/loanmatteusz/Menu-App)
 - [Applicativo de busca de Filmes com Classificação](https://github.com/loanmatteusz/movie-app)
@@ -37,6 +38,7 @@
 - [User Authentication](https://github.com/loanmatteusz/AuthUsuarios)
 - [Alura Quiz: Perguntas sobre a série Supernatural](https://github.com/loanmatteusz/AluraQuiz)
 - [Conversor de Binário pra Decimal](https://github.com/loanmatteusz/Bin2Dec)
+-->
 
 ## Social Hangouts 💬 -
 <a href="https://www.linkedin.com/in/loanmatteusz/">
@@ -44,6 +46,9 @@
 </a>
 <a href="https://github.com/loanmatteusz">
   <img align="left" alt="Loan's Github" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />
+</a>
+<a href="https://api.whatsapp.com/send/?phone=5583991038623&text&type=phone_number&app_absent=0">
+  <img align="left" alt="Loan's Whatsapp" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/whatsapp.svg" />
 </a>
 <br>
 <!--
