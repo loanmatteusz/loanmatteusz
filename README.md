@@ -40,7 +40,7 @@
 <a href="https://github.com/loanmatteusz">
   <img align="left" alt="Loan's Github" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />
 </a>
-<a href="https://api.whatsapp.com/send/?phone=5583991038623&text&type=phone_number&app_absent=0">
+<a href="https://api.whatsapp.com/send/?phone=640225630808&text&type=phone_number&app_absent=0">
   <img align="left" alt="Loan's Whatsapp" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/whatsapp.svg" />
 </a>
 <br>
