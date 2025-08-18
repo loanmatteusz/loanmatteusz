@@ -54,30 +54,30 @@ I'm a passionate software developer focused on building robust **Web APIs** with
 
 ---
 
-## 📌 Featured Projects
+## 📌 Featured Projects (Last challenges)
 
 <table>
   <tr>
     <td>
-      <a href="https://github.com/loanmatteusz/clean-arch-rust">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=loanmatteusz&repo=clean-arch-rust&theme=default" />
+      <a href="https://github.com/loanmatteusz/challenge-esig">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=loanmatteusz&repo=challenge-esig&theme=default" />
       </a>
     </td>
     <td>
-      <a href="https://github.com/loanmatteusz/microservices-with-kafka">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=loanmatteusz&repo=microservices-with-kafka&theme=default" />
+      <a href="https://github.com/loanmatteusz/challenge-snet">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=loanmatteusz&repo=challenge-snet&theme=default" />
       </a>
     </td>
   </tr>
   <tr>
     <td>
-      <a href="https://github.com/loanmatteusz/movie-app">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=loanmatteusz&repo=movie-app&theme=default" />
+      <a href="https://github.com/loanmatteusz/letmeask-api">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=loanmatteusz&repo=letmeask-api&theme=default" />
       </a>
     </td>
     <td>
-      <a href="https://github.com/loanmatteusz/export-xlsx-with-currency-style">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=loanmatteusz&repo=export-xlsx-with-currency-style&theme=default" />
+      <a href="https://github.com/loanmatteusz/socio-map-challenge-php">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=loanmatteusz&repo=socio-map-challenge-php&theme=default" />
       </a>
     </td>
   </tr>
