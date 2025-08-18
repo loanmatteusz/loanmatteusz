@@ -44,17 +44,15 @@ I'm a passionate software developer focused on building robust **Web APIs** with
 ---
 
 ### 🌐 Connect With Me
-<span style="display: flex; gap: 8px;">
   <a href="https://www.linkedin.com/in/loanmatteusz/">
     <img align="left" alt="Loan's LinkedIn" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/linkedin.svg" />
   </a>
   <a href="https://github.com/loanmatteusz">
     <img align="left" alt="Loan's GitHub" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/github.svg" />
   </a>
-  <a href="https://api.whatsapp.com/send/?phone=66611142972&text&type=phone_number&app_absent=0">
+  <a href="https://api.whatsapp.com/send/?phone=5583991038623&text&type=phone_number&app_absent=0">
     <img align="left" alt="Loan's WhatsApp" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/whatsapp.svg" />
   </a>
-</span>
 <br>
 
 ---
