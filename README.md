@@ -14,11 +14,12 @@ I'm a passionate software developer focused on building robust **Web APIs** with
 ---
 
 ### 🔥 Technologies & Tools
-- **Backend**: Node.js, NestJS, Express, Rust, Python, PostgreSQL, GraphQL  
-- **Frontend**: React, Angular, TypeScript, JavaScript, HTML5, CSS3  
-- **DevOps & Cloud**: Docker, AWS (EC2, S3, Lambda), Git, GitHub Actions  
-- **Architecture**: REST APIs, GraphQL, Microservices, Authentication, CI/CD  
-- **Other Tools**: VSCode, WebStorm, Postman, Insomnia  
+- **Languages**: Typescript, Javascript, Rust, Java, C/C++, C#, Python
+- **Backend**: Node.js, NestJS, Express, PostgreSQL, GraphQL  
+- **Frontend**: React/Next.js, Angular, Vue/Nuxt.js, HTML5, CSS3, JSX/TSX  
+- **DevOps & Cloud**: Docker, AWS (EC2, S3, Lambda), Git, GitHub Actions
+- **Architecture**: REST APIs, GraphQL, gRPC, Microservices, Authentication, CI/CD  
+- **Other Tools**: VSCode, WebStorm, RustRover, IntelliJ, Postman, Insomnia  
 
 ---
 
@@ -29,6 +30,8 @@ I'm a passionate software developer focused on building robust **Web APIs** with
   <img height="25" src="https://raw.githubusercontent.com/github/explore/main/topics/python/python.png">
   <img height="25" src="https://raw.githubusercontent.com/github/explore/main/topics/typescript/typescript.png">
   <img height="25" src="https://raw.githubusercontent.com/github/explore/main/topics/javascript/javascript.png">
+  <img height="25" src="https://raw.githubusercontent.com/github/explore/main/topics/cpp/cpp.png">
+  <img height="25" src="https://raw.githubusercontent.com/github/explore/main/topics/java/java.png">
   <img height="25" src="https://raw.githubusercontent.com/github/explore/main/topics/react/react.png">
   <img height="25" src="https://raw.githubusercontent.com/github/explore/main/topics/angular/angular.png">
   <img height="25" src="https://raw.githubusercontent.com/github/explore/main/topics/docker/docker.png">
@@ -41,15 +44,17 @@ I'm a passionate software developer focused on building robust **Web APIs** with
 ---
 
 ### 🌐 Connect With Me
-<a href="https://www.linkedin.com/in/loanmatteusz/">
-  <img align="left" alt="Loan's LinkedIn" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/linkedin.svg" />
-</a>
-<a href="https://github.com/loanmatteusz">
-  <img align="left" alt="Loan's GitHub" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/github.svg" />
-</a>
-<a href="https://api.whatsapp.com/send/?phone=66611142972&text&type=phone_number&app_absent=0">
-  <img align="left" alt="Loan's WhatsApp" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/whatsapp.svg" />
-</a>
+<span style="display: flex; gap: 8px;">
+  <a href="https://www.linkedin.com/in/loanmatteusz/">
+    <img align="left" alt="Loan's LinkedIn" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/linkedin.svg" />
+  </a>
+  <a href="https://github.com/loanmatteusz">
+    <img align="left" alt="Loan's GitHub" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/github.svg" />
+  </a>
+  <a href="https://api.whatsapp.com/send/?phone=66611142972&text&type=phone_number&app_absent=0">
+    <img align="left" alt="Loan's WhatsApp" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/whatsapp.svg" />
+  </a>
+</span>
 <br>
 
 ---
