@@ -62,13 +62,13 @@ I'm a passionate software developer focused on building robust **Web APIs** with
 <table>
   <tr>
     <td>
-      <a href="https://github.com/loanmatteusz/challenge-esig">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=loanmatteusz&repo=challenge-esig&theme=default" />
+      <a href="https://github.com/loanmatteusz/golang-product-app">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=loanmatteusz&repo=golang-product-app&theme=default" />
       </a>
     </td>
     <td>
-      <a href="https://github.com/loanmatteusz/challenge-snet">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=loanmatteusz&repo=challenge-snet&theme=default" />
+      <a href="https://github.com/loanmatteusz/java-todo-app-springboot">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=loanmatteusz&repo=java-todo-app-springboot&theme=default" />
       </a>
     </td>
   </tr>
@@ -79,8 +79,8 @@ I'm a passionate software developer focused on building robust **Web APIs** with
       </a>
     </td>
     <td>
-      <a href="https://github.com/loanmatteusz/socio-map-challenge-php">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=loanmatteusz&repo=socio-map-challenge-php&theme=default" />
+      <a href="https://github.com/loanmatteusz/php-socio-map-app">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=loanmatteusz&repo=php-socio-map-app&theme=default" />
       </a>
     </td>
   </tr>
